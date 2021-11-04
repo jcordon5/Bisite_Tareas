@@ -1,5 +1,4 @@
-# practising
-A new repository for tareas de bisite
+# Bisite_Tareas
+Repositorio de prueba para tareas de bisite
 
-## INTEGRANTES DEL GRUPO:
 ### Jose 
